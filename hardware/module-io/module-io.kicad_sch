@@ -4431,6 +4431,12 @@
     (path "/00000000-0000-0000-0000-00006541210e/00000000-0000-0000-0000-0000627d128e"
       (reference "#GND0102") (unit 1) (value "0") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062093055/2afb3c01-2d93-493a-bdd3-fcc90324e86f"
+      (reference "#GND0103") (unit 1) (value "0") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/af059734-4cf4-43b4-80d3-1d70ee18e0dc"
+      (reference "#GND0104") (unit 1) (value "0") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000065903822"
       (reference "#PWR01") (unit 1) (value "+3V3") (footprint "")
     )
@@ -4625,6 +4631,30 @@
     )
     (path "/00000000-0000-0000-0000-00006541210e/00000000-0000-0000-0000-0000654e873b"
       (reference "D24") (unit 1) (value "BAT54C") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/5bd6d640-1672-42c6-bd67-09487f076cd1"
+      (reference "D25") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMB_Handsoldering")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/adac4c31-4483-4e9e-a0f0-dd9a2fb56979"
+      (reference "D26") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMB_Handsoldering")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/1c9eaec8-e801-4abe-8cf5-fa87200b69c8"
+      (reference "D27") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMB_Handsoldering")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/d9e0dfc1-6d29-4d2f-af48-3cad7c575af3"
+      (reference "D28") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMB_Handsoldering")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/174ea505-d2de-46fb-97b8-f65c38792f39"
+      (reference "F1") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/394e75d3-7dc8-4c52-b303-ef4e07b3059d"
+      (reference "F2") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/d6c8ba02-57f8-41b0-a357-c7b13e4ed721"
+      (reference "F3") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-000062093055/887b542a-d2ff-41cb-8c8a-d2c8f6429c3a"
+      (reference "F4") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00006265cc47"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
